@@ -1,0 +1,6 @@
+{
+  "name": "IdeaForge",
+  "description": "Next-generation AI-integrated note-taking and study platform with rich markdown, drawing canvas, spaced-repetition flashcards, AI quizzes, and customizable themes.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
